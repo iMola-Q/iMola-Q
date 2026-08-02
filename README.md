@@ -1,16 +1,23 @@
-## Hi there 👋
-
-<!--
-**iMola-Q/iMola-Q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,40:1E3A5F,100:22C55E&text=Abdulmawla&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Web%20Developer%20%7C%20Flutter%20Developer%20%7C%20Full-stack&descSize=18&descAlignY=62&animation=fadeIn" alt="Abdulmawla header" /> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=900&height=48&lines=Building+for+the+web+from+Tripoli%2C+Libya;PHP+%2B+SQL+Server+%2F+MySQL+backend+systems;Flutter+mobile+apps+with+clean+UI" alt="Typing introduction" /> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/Web%20Developer-HTML%20%2F%20CSS%20%2F%20JS-22C55E?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117" alt="Web Developer" /> <img src="https://img.shields.io/badge/Backend-PHP%20%2F%20Python-8B5CF6?style=for-the-badge&logo=php&logoColor=white&labelColor=0D1117" alt="Backend" /> <img src="https://img.shields.io/badge/Mobile-Flutter-00E5FF?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1117" alt="Flutter" /> <img src="https://komarev.com/ghpvc/?username=iMola-Q&label=Profile%20Views&color=22C55E&style=for-the-badge" alt="Profile views" /> </p> <p align="center" dir="auto"> <strong>اللّٰهُمَّ انْفَعْنِي بِمَا عَلَّمْتَنِي، وَزِدْنِي عِلْمًا</strong> <br /> <sub>﴿ رَبِّ زِدْنِي عِلْمًا ﴾</sub> </p>
+~/whoami
+const abdulmawla = {
+  name: "Abdulmawla",
+  base: "Tripoli, Libya",
+  role: ["Web Developer", "Flutter Developer"],
+  stack: ["HTML", "CSS", "JavaScript", "PHP", "Python", "SQL Server", "MySQL"],
+  mobile: "Flutter",
+  philosophy: "Solid fundamentals, clean code, real-world problem solving.",
+};
+<table> <tr> <td width="50%" valign="top"> <h3>Web Development</h3> <p>I build full websites and web systems end to end — from structure and styling to server-side logic and database design. Comfortable working across the whole stack, from a static landing page to a dynamic PHP-backed system.</p> </td> <td width="50%" valign="top"> <h3>Mobile Development</h3> <p>I build cross-platform mobile apps with Flutter, focusing on clean UI, smooth navigation, and practical features that solve everyday problems.</p> </td> </tr> </table>
+~/stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,dart,flutter,git,github&theme=dark&perline=10" alt="Tech stack icons" /> </p> <p align="center"> <img src="https://img.shields.io/badge/HTML5-Structure-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-Interactivity-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" /> <img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/SQL%20Server-Database-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /> <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> </p>
+~/what-i-do
+01. Design and build responsive websites with HTML, CSS, and JavaScript.
+02. Develop server-side logic and dynamic pages with PHP.
+03. Design and manage relational databases in SQL Server and MySQL.
+04. Automate tasks and handle data processing with Python.
+05. Build cross-platform mobile apps with Flutter.
+~/github-signals
+<p align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iMola-Q&theme=github_dark" alt="GitHub stats" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iMola-Q&theme=github_dark" alt="Top languages by repository" /> </p> <p align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iMola-Q&theme=github_dark" alt="Top languages by commit" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iMola-Q&theme=github_dark&utcOffset=2" alt="Productive time" /> </p> <p align="center"> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iMola-Q&theme=github_dark" alt="GitHub profile details" /> </p> <p align="center"> <img height="180" src="https://streak-stats.demolab.com?user=iMola-Q&theme=github-dark-blue&hide_border=true&border_radius=8" alt="GitHub streak" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=iMola-Q&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" alt="GitHub trophies" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iMola-Q&theme=react-dark&hide_border=true&area=true&radius=8&custom_title=Abdulmawla%27s%20Contribution%20Graph" width="100%" alt="Contribution graph" /> </p>
+~/connect
+<p align="center"> <a href="https://github.com/iMola-Q"> <img src="https://img.shields.io/badge/GitHub-iMola--Q-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p> <p align="center"> <sub><em>"Keep learning, keep building."</em></sub> </p> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22C55E,60:1E3A5F,100:0D1117" alt="Footer wave" />
